@@ -1,6 +1,6 @@
 # Matplotlib-Assignment-1
     Pyber
-    Showcases the relationship between four key variables:
+    Showcase the relationship between four key variables:
         Average Fare ($) Per City
         Total Number of Rides Per City
         Total Number of Drivers Per City
